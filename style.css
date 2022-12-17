@@ -209,6 +209,22 @@ button{
     }
 }
 
+@media (max-width: 366px){
+    .grid-item-3{
+        margin-left: -178px !important;
+        margin-top: 1800px;
+    }
+
+    #btn{
+        margin-left: -5px !important;
+    }
+
+    .grid-1 h3{
+        margin-left: 2px;
+        font-size: 9px !important;
+    }
+}
+
 #icon{
     border-radius: 50%;
 }
